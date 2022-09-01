@@ -1,5 +1,7 @@
 # JOGO-LUDO-EM-C 
 /*Estou com dificuldades em dar andamento no jogo, pois gostaria de saber como andar com a STRUCT na matriz de tabuleiro char( aceito sugestões se for melhor fazer tabuleiro de tipo inteiro ou algo do tipo) minha duvida é em como andar com a struct na matriz.*/
+a logica do game é a seguinte 
+O tabuleiro quadrado tem um percurso em forma de cruz e cada jogador tem quatro peões. Um dado define os movimentos. Os peões de cada jogador começam na base de mesma cor. O objetivo do jogo é ser o primeiro a levar seus 4 peões a dar uma volta no tabuleiro e a chegar no ponto final marcado com sua cor.
 
 #include <stdio.h>
 #include <stdlib.h>
